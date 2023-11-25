@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2544
     height: 1341
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Inspector
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 313
     height: 1291
-  m_MinSize: {x: 401, y: 621}
-  m_MaxSize: {x: 601, y: 1221}
+  m_MinSize: {x: 400, y: 600}
+  m_MaxSize: {x: 600, y: 1200}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 39
+  controlID: 117
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -399,14 +399,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\gbmd21\Documents\sgj2023\sussexgj2023
+  m_LastProjectPath: C:\Users\gbmd21\Documents\GitHub\sussexgamejam2023\sgj2023\sussexgj2023
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 98960000
-    m_LastClickedID: 38552
-    m_ExpandedIDs: 000000009896000000ca9a3bffffff7f
+    m_SelectedIDs: 128f0000
+    m_LastClickedID: 36626
+    m_ExpandedIDs: 00000000128f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -435,7 +435,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000128f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -583,9 +583,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 26cefffffad1ffff
+      m_SelectedIDs: d48d0000
+      m_LastClickedID: 36308
+      m_ExpandedIDs: 18faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -706,10 +706,10 @@ MonoBehaviour:
       displayed: 1
       id: unity-transform-toolbar
       index: 0
-      contents: '{"m_Layout":2,"m_Collapsed":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":24.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
+      contents: '{"m_Layout":2,"m_Collapsed":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":24.0,"y":26.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
       floating: 0
       collapsed: 0
-      snapOffset: {x: 24, y: 0}
+      snapOffset: {x: 24, y: 26}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       layout: 2
